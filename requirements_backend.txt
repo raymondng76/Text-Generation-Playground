@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gunicorn
+hydra-core
+transformers
+accelerate
+bitsandbytes
